@@ -1,13 +1,41 @@
 <p align="center">
-<img src="assets/profile.jpg" width="220">
+<img src="assets/qa-left.png" width="160"/>
+<img src="assets/profile.jpg" width="220"/>
+<img src="assets/qa-right.png" width="160"/>
 </p>
 
-# 👋 Olá, eu sou Ivaneide
+<h1 align="center">Ivaneide Pires Monteiro do Nascimento</h1>
 
-QA Analyst | Test Automation | Cypress  
+<p align="center">
+QA Analyst | Test Automation | Cypress
+</p>
+
+<p align="center">
 Belém – Pará | Brasil
+</p>
 
-Apaixonada por melhorar a **qualidade de software** através de **testes estruturados, automação e análise de qualidade**.
+<p align="center">
+<img src="https://img.shields.io/badge/QA-Software%20Testing-blue">
+<img src="https://img.shields.io/badge/Cypress-Test%20Automation-green">
+<img src="https://img.shields.io/badge/API-Testing-orange">
+<img src="https://img.shields.io/badge/CI/CD-Automation-purple">
+</p>
+
+---
+
+# 👋 Sobre mim
+
+Sou QA Analyst focada em **qualidade de software, testes estruturados e automação de testes**.
+
+Tenho interesse em **melhorar a confiabilidade de sistemas digitais através de estratégias de teste, análise de riscos e automação**.
+
+Minha atuação envolve:
+
+✔ identificação de falhas funcionais  
+✔ análise de qualidade de software  
+✔ melhoria da experiência do usuário  
+✔ criação de estratégias de testes  
+✔ automação de testes
 
 ---
 
@@ -17,10 +45,20 @@ Apaixonada por melhorar a **qualidade de software** através de **testes estrutu
 
 Ferramenta de diagnóstico para avaliar **maturidade de testes e riscos de qualidade em sistemas**.
 
-Repository  
+O projeto permite que empresas preencham um formulário de diagnóstico para identificar:
+
+- problemas de qualidade
+- falhas funcionais
+- gargalos de UX
+- necessidade de automação de testes
+- riscos em produção
+
+📂 Repositório
+
 https://github.com/ivaneidepmn/qa-software-quality-diagnosis
 
-Diagnosis Form  
+📊 Formulário de diagnóstico
+
 https://docs.google.com/forms/d/e/1FAIpQLSf6slGehypENE1hqV9ftjujWHvlR6O5lc7Tld9LPkCNslfT_Q/viewform
 
 ---
@@ -29,7 +67,15 @@ https://docs.google.com/forms/d/e/1FAIpQLSf6slGehypENE1hqV9ftjujWHvlR6O5lc7Tld9L
 
 Projeto de **automação de testes utilizando Cypress** com pipeline CI/CD.
 
-Repository  
+Este projeto demonstra:
+
+✔ testes automatizados E2E  
+✔ validação funcional da aplicação  
+✔ identificação de bugs de usabilidade  
+✔ integração com pipeline CI/CD
+
+📂 Repositório
+
 https://github.com/ivaneidepmn/qa-aprbs-cypress
 
 ---
@@ -53,7 +99,8 @@ https://github.com/ivaneidepmn/qa-aprbs-cypress
 ✔ Automação de testes  
 ✔ Identificação de bugs funcionais  
 ✔ Análise de experiência do usuário  
-✔ Estratégia de testes
+✔ Estratégia de testes  
+✔ Diagnóstico de maturidade de QA
 
 ---
 
