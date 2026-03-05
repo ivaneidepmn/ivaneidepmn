@@ -1,28 +1,28 @@
 <table>
-<tr>
+  <tr>
+    <!-- ESQUERDA: SUA FOTO -->
+    <td width="25%" align="center" valign="middle">
+      <img src="assets/profile.jpg" width="220" style="border-radius: 50%;">
+    </td>
 
-<td width="25%" align="center">
-<img src="ativos/qa-left.png" width="220">
-</td>
+    <!-- CENTRO: TEXTO -->
+    <td width="50%" align="center" valign="middle">
+      <h2>👋 Olá, eu sou Ivaneide</h2>
+      <p>
+        QA Analyst | Test Automation | Cypress<br>
+        Belém – Pará | Brasil
+      </p>
+      <p>
+        Apaixonada por melhorar a <b>qualidade de software</b> através de
+        <b>testes estruturados</b>, <b>automação</b> e <b>análise de qualidade</b>.
+      </p>
+    </td>
 
-<td width="50%" align="center">
-
-<img src="ativos/profile.jpg" width="220">
-
-<h2>👋 Olá, eu sou Ivaneide</h2>
-
-QA Analyst | Test Automation | Cypress  
-Belém – Pará | Brasil  
-
-Apaixonada por melhorar a **qualidade de software** através de **testes estruturados, automação e análise de qualidade**.
-
-</td>
-
-<td width="25%" align="center">
-<img src="ativos/qa-right.png" width="220">
-</td>
-
-</tr>
+    <!-- DIREITA: DESENHO QA -->
+    <td width="25%" align="center" valign="middle">
+      <img src="assets/qa-right.png" width="220">
+    </td>
+  </tr>
 </table>
 
 ---
