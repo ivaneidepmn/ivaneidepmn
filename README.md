@@ -2,20 +2,20 @@
 <img src="assets/profile.jpg" width="220">
 </p>
 
-# 👋 Hello, I'm Ivaneide
+# 👋 Olá, eu sou Ivaneide
 
 QA Analyst | Test Automation | Cypress  
+Belém – Pará | Brasil
 
-Belém – Pará | Brazil  
-
-Passionate about improving **software quality, testing strategies and test automation.**
+Apaixonada por melhorar a **qualidade de software** através de **testes estruturados, automação e análise de qualidade**.
 
 ---
 
-# 🚀 QA Projects
+# 🚀 Projetos de QA
 
-### 🔎 QA Software Quality Diagnosis
-Software quality diagnostic tool to evaluate QA maturity and identify testing risks.
+## 🔎 QA Software Quality Diagnosis
+
+Ferramenta de diagnóstico para avaliar **maturidade de testes e riscos de qualidade em sistemas**.
 
 Repository  
 https://github.com/ivaneidepmn/qa-software-quality-diagnosis
@@ -25,16 +25,16 @@ https://docs.google.com/forms/d/e/1FAIpQLSf6slGehypENE1hqV9ftjujWHvlR6O5lc7Tld9L
 
 ---
 
-### 🧪 QA Automation – APRBS Certification Platform
+## 🤖 QA Automation — APRBS Certification Platform
 
-Automated tests using Cypress with CI/CD pipeline.
+Projeto de **automação de testes utilizando Cypress** com pipeline CI/CD.
 
 Repository  
 https://github.com/ivaneidepmn/qa-aprbs-cypress
 
 ---
 
-# 🧰 Tech Stack
+# 🧰 Tecnologias
 
 - Cypress
 - JavaScript
@@ -46,22 +46,22 @@ https://github.com/ivaneidepmn/qa-aprbs-cypress
 
 ---
 
-# 📊 What I do
+# 📊 O que eu faço
 
-• Software Quality Analysis  
-• Test Automation  
-• QA Strategy  
-• Bug Investigation  
-• UX Quality Review  
-• Test Planning  
+✔ Análise de qualidade de software  
+✔ Planejamento de testes  
+✔ Automação de testes  
+✔ Identificação de bugs funcionais  
+✔ Análise de experiência do usuário  
+✔ Estratégia de testes
 
 ---
 
-# 📫 Contact
+# 📬 Contato
 
 LinkedIn  
 https://linkedin.com/in/ivaneidepmn
 
 ---
 
-⭐ Always learning and improving software quality.
+⭐ Este perfil apresenta meus **projetos e estudos em Software Quality Assurance e Test Automation**.
