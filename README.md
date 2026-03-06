@@ -42,16 +42,41 @@ Apaixonada por melhorar a **qualidade de software** através de
 
 ---
 
-# 🧠 Tecnologias e Ferramentas
+## 🧠 Tecnologias e Ferramentas
 
-<p align="center">
+### 🧪 Test Automation
 
-<img src="https://img.shields.io/badge/Cypress-Test%20Automation-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/BDD-Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
-<img src="https://img.shields.io/badge/API%20Testing-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<p>
+
+<img src="https://img.shields.io/badge/CYPRESS-Test%20Automation-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/BDD-CUCUMBER-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/API%20TESTING-POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+</p>
+
+---
+
+### ⚙️ DevOps
+
+<p>
+
+<img src="https://img.shields.io/badge/CI%2FCD-GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GIT-VERSION%20CONTROL-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GITHUB-CODE%20HOSTING-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</p>
+
+---
+
+### 💻 Programming
+
+<p>
+
+<img src="https://img.shields.io/badge/JAVASCRIPT-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
 </p>
 
