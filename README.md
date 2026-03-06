@@ -47,15 +47,10 @@ Apaixonada por melhorar a **qualidade de software** através de
 <p align="center">
 
 <img src="https://img.shields.io/badge/Cypress-Test%20Automation-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/BDD-Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/API%20Testing-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/CI/CD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
@@ -78,17 +73,13 @@ Identifica:
 
 ### 📂 Repositório
 
-[![Abrir Projeto](https://img.shields.io/badge/Abrir%20Projeto-GitHub-blue?style=for-the-badge)](https://github.com/ivaneidepmn/qa-software-quality-diagnosis)
-
-### 📊 Formulário de Diagnóstico
-
-[![Abrir Formulário](https://img.shields.io/badge/Formulário-Diagnóstico-blue?style=for-the-badge)](https://docs.google.com/forms/d/e/1FAIpQLSf6slGehypENE1hqV9ftjujWHvlR6O5lc7Tld9LPkCNslfT_Q/viewform)
+[![QA SOFTWARE QUALITY](https://img.shields.io/badge/QA%20SOFTWARE%20QUALITY-DIAGNOSIS-1f6feb?style=for-the-badge)](https://github.com/ivaneidepmn/qa-software-quality-diagnosis)
 
 ---
 
-## 🤖 QA Automation — APRBS Certification Platform
+## 🤖 Automação de controle de qualidade - plataforma de certificação APRBS
 
-Projeto de **automação de testes com Cypress** integrado a pipeline **CI/CD**.
+Projeto de **automação de testes com Cypress** integrado ao pipeline **CI/CD**.
 
 Este projeto demonstra:
 
@@ -99,13 +90,13 @@ Este projeto demonstra:
 
 ### 📂 Repositório
 
-[![Abrir Automação](https://img.shields.io/badge/Cypress-Automation-blue?style=for-the-badge)](https://github.com/ivaneidepmn/qa-aprbs-cypress)
+[![CYPRESS](https://img.shields.io/badge/CYPRESS-AUTOMATION-1f6feb?style=for-the-badge)](https://github.com/ivaneidepmn/qa-aprbs-cypress)
 
 ---
 
-## 📘 QA Engineering Roadmap
+## 📘 Roteiro de Engenharia de Garantia da Qualidade
 
-Repositório dedicado à organização dos meus estudos em **Quality Engineering**, abordando:
+Repositório dedicado à organização dos meus estudos em **Engenharia da Qualidade**, abordando:
 
 - fundamentos de QA
 - estratégias de testes
@@ -114,7 +105,7 @@ Repositório dedicado à organização dos meus estudos em **Quality Engineering
 
 ### 📂 Repositório
 
-[![Abrir Roadmap](https://img.shields.io/badge/QA%20Engineering-Roadmap-blue?style=for-the-badge)](https://github.com/ivaneidepmn/qa-engineering-roadmap)
+[![QA ENGINEERING](https://img.shields.io/badge/QA%20ENGINEERING-ROADMAP-1f6feb?style=for-the-badge)](https://github.com/ivaneidepmn/qa-engineering-roadmap)
 
 ---
 
@@ -137,18 +128,6 @@ Repositório dedicado à organização dos meus estudos em **Quality Engineering
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivaneidepmn&theme=tokyo-night&hide_border=true"/>
 
 </div>
-
----
-
-# 📊 O que eu faço
-
-✔ análise de qualidade de software  
-✔ planejamento de testes  
-✔ automação de testes  
-✔ identificação de bugs funcionais  
-✔ análise de experiência do usuário  
-✔ estratégia de testes  
-✔ diagnóstico de maturidade de QA  
 
 ---
 
