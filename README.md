@@ -109,19 +109,19 @@ Repositório dedicado à organização dos meus estudos em **Engenharia da Quali
 
 ---
 
-# 📊 GitHub Stats
+# 📊 Estatísticas do GitHub
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ivaneidepmn&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ivaneidepmn&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivaneidepmn&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivaneidepmn&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
 </div>
 
 ---
 
-# 🔥 Contribution Graph
+# 🔥 Gráfico de Contribuição
 
 <div align="center">
 
@@ -133,7 +133,7 @@ Repositório dedicado à organização dos meus estudos em **Engenharia da Quali
 
 # 📬 Contato
 
-<p align="center">
+<div align="center">
 
 <a href="https://linkedin.com/in/ivaneidepmn">
 
@@ -141,11 +141,7 @@ Repositório dedicado à organização dos meus estudos em **Engenharia da Quali
 
 </a>
 
-</p>
-
----
-
-<div align="center">
+</div>
 
 ⭐ Este perfil apresenta meus **projetos e estudos em Software Quality Assurance e Test Automation**.
 
