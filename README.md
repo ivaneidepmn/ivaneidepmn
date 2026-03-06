@@ -113,9 +113,7 @@ Repositório dedicado à organização dos meus estudos em **Engenharia da Quali
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ivaneidepmn&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivaneidepmn&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+⚠️ As estatísticas estão temporariamente indisponíveis devido a instabilidade do serviço externo.
 
 </div>
 
@@ -124,12 +122,18 @@ Repositório dedicado à organização dos meus estudos em **Engenharia da Quali
 # 🔥 Gráfico de Contribuição
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ivaneidepmn&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivaneidepmn&theme=tokyo-night&hide_border=true"/>
 </div>
 
 ---
+
+# 📬 Contato
+
+<div align="center">
+  <a href="https://linkedin.com/in/ivaneidepmn">
+    <img src="https://img.shields.io/badge/LinkedIn-Ivaneide%20Monteiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</div>
 
 # 📬 Contato
 
