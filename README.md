@@ -104,16 +104,16 @@ Identifica:
 
 ---
 
-## 🤖 Automação de controle de qualidade - plataforma de certificação APRBS
+## 🤖 Automação de Controle de Qualidade – Plataforma de Certificação APRBS
 
-Projeto de **automação de testes com Cypress** integrado ao pipeline **CI/CD**.
+Projeto de **automação de testes E2E com Cypress**, integrado ao pipeline **CI/CD com GitHub Actions**.
 
 Este projeto demonstra:
 
 ✔ testes automatizados E2E  
 ✔ validação funcional da aplicação  
 ✔ identificação de bugs de usabilidade  
-✔ integração com GitHub Actions  
+✔ execução automática em pipeline CI/CD  
 
 ### 📂 Repositório
 
@@ -121,9 +121,9 @@ Este projeto demonstra:
 
 ---
 
-## 📘 Roteiro de Engenharia de Garantia da Qualidade
+## 📘 QA Engineering Roadmap
 
-Repositório dedicado à organização dos meus estudos em **Engenharia da Qualidade**, abordando:
+Repositório dedicado à organização dos meus estudos em **Software Quality Engineering**, abordando:
 
 - fundamentos de QA
 - estratégias de testes
@@ -136,32 +136,21 @@ Repositório dedicado à organização dos meus estudos em **Engenharia da Quali
 
 ---
 
-# 📊 Estatísticas do GitHub
-
-<div align="center">
-
-⚠️ As estatísticas estão temporariamente indisponíveis devido a instabilidade do serviço externo.
-
-</div>
-
----
-
 # 🔥 Gráfico de Contribuição
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivaneidepmn&theme=tokyo-night&hide_border=true"/>
 </div>
 
----
-
-# 📬 Contato
+# 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://linkedin.com/in/ivaneidepmn">
-    <img src="https://img.shields.io/badge/LinkedIn-Ivaneide%20Monteiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
 
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ivaneidepmn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivaneidepmn&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
 # 📬 Contato
 
 <div align="center">
@@ -175,5 +164,3 @@ Repositório dedicado à organização dos meus estudos em **Engenharia da Quali
 </div>
 
 ⭐ Este perfil apresenta meus **projetos e estudos em Software Quality Assurance e Test Automation**.
-
-</div>
