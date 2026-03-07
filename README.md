@@ -115,6 +115,8 @@ Este projeto demonstra:
 ✔ identificação de bugs de usabilidade  
 ✔ execução automática em pipeline CI/CD  
 
+---
+
 ### 📂 Repositório
 
 [![CYPRESS](https://img.shields.io/badge/CYPRESS-AUTOMATION-1f6feb?style=for-the-badge)](https://github.com/ivaneidepmn/qa-aprbs-cypress)
@@ -151,6 +153,9 @@ Repositório dedicado à organização dos meus estudos em **Software Quality En
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivaneidepmn&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
 # 📬 Contato
 
 <div align="center">
