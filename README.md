@@ -148,9 +148,9 @@ Repositório dedicado à organização dos meus estudos em **Software Quality En
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ivaneidepmn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api?username=ivaneidepmn&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivaneidepmn&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivaneidepmn&layout=compact&theme=tokyonight" height="170"/>
 
 </div>
 
