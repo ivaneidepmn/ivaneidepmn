@@ -48,7 +48,9 @@ Apaixonada por melhorar a **qualidade de software** através de
 
 <p>
 
+<a href="https://github.com/ivaneidepmn/qa-test-automation-playground">
 <img src="https://img.shields.io/badge/CYPRESS-Test%20Automation-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+</a>
 
 <img src="https://img.shields.io/badge/BDD-CUCUMBER-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
 
