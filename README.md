@@ -2,13 +2,38 @@
 
 # 👋 Olá, eu sou Ivaneide
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&size=25&center=true&vCenter=true&width=900&lines=QA+Analyst;Test+Automation+Engineer;Cypress+%7C+BDD+%7C+CI%2FCD;Software+Quality+%7C+QA+Strategy)](https://git.io/typing-svg)
+### QA Analyst • Test Automation • Quality Engineering
 
-**QA Analyst | Test Automation | Cypress | BDD | CI/CD**  
-Belém – Pará | Brasil
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00C2FF&size=28&center=true&vCenter=true&width=900&lines=Software+Quality+Engineer;Test+Automation+with+Cypress;Quality+Strategy+%7C+CI%2FCD;Improving+Software+Reliability)](https://git.io/typing-svg)
 
-Apaixonada por melhorar a **qualidade de software** através de  
-**testes estruturados, automação e análise de qualidade**.
+</div>
+
+---
+
+<div align="center">
+
+### 🔎 Foco Profissional
+
+<img src="https://img.shields.io/badge/Test%20Automation-Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
+<img src="https://img.shields.io/badge/BDD-Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
+<img src="https://img.shields.io/badge/API%20Testing-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Projetos em Destaque
+
+[![QA Bug Hunt](https://img.shields.io/badge/QA%20Bug%20Hunt-DemoQA-blue?style=for-the-badge)](https://github.com/ivaneidepmn/qa-bug-hunt-demoqa)
+
+[![Cypress Automation](https://img.shields.io/badge/Cypress-Test%20Automation-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://github.com/ivaneidepmn/qa-aprbs-cypress)
+
+[![QA Diagnosis](https://img.shields.io/badge/Software%20Quality-Diagnosis-1f6feb?style=for-the-badge)](https://github.com/ivaneidepmn/qa-software-quality-diagnosis)
+
+[![QA Roadmap](https://img.shields.io/badge/QA%20Engineering-Roadmap-1f6feb?style=for-the-badge)](https://github.com/ivaneidepmn/qa-engineering-roadmap)
 
 </div>
 
@@ -42,15 +67,13 @@ Apaixonada por melhorar a **qualidade de software** através de
 
 ---
 
-## 🧠 Tecnologias e Ferramentas
+# 🧠 Tecnologias e Ferramentas
 
 ### 🧪 Test Automation
 
 <p>
 
-<a href="https://github.com/ivaneidepmn/qa-test-automation-playground">
 <img src="https://img.shields.io/badge/CYPRESS-Test%20Automation-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-</a>
 
 <img src="https://img.shields.io/badge/BDD-CUCUMBER-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
 
@@ -86,6 +109,42 @@ Apaixonada por melhorar a **qualidade de software** através de
 
 # 🚀 Projetos de QA
 
+Aqui estão alguns projetos que demonstram minha experiência prática em **Software Quality Assurance, Test Automation e Engenharia de Qualidade**.
+
+---
+
+## 🐞 QA Bug Hunt – DemoQA
+
+Projeto de **testes exploratórios e documentação de bugs**, identificando problemas reais de:
+
+- UI interaction
+- validação de dados
+- operações CRUD
+- comportamento da aplicação
+
+📂 Repositório
+
+[![QA BUG HUNT](https://img.shields.io/badge/QA%20BUG%20HUNT-DemoQA-blue?style=for-the-badge)](https://github.com/ivaneidepmn/qa-bug-hunt-demoqa)
+
+---
+
+## 🤖 Automação de Testes – Plataforma APRBS
+
+Projeto de **automação de testes E2E com Cypress**, integrado ao pipeline **CI/CD com GitHub Actions**.
+
+Este projeto demonstra:
+
+✔ testes automatizados E2E  
+✔ validação funcional da aplicação  
+✔ identificação de bugs de usabilidade  
+✔ execução automática em pipeline CI/CD  
+
+📂 Repositório
+
+[![CYPRESS AUTOMATION](https://img.shields.io/badge/CYPRESS-AUTOMATION-1f6feb?style=for-the-badge)](https://github.com/ivaneidepmn/qa-aprbs-cypress)
+
+---
+
 ## 🔎 QA Software Quality Diagnosis
 
 Ferramenta de diagnóstico para avaliar **maturidade de testes e riscos de qualidade em sistemas**.
@@ -98,28 +157,9 @@ Identifica:
 - necessidade de automação de testes
 - riscos em produção
 
-### 📂 Repositório
+📂 Repositório
 
 [![QA SOFTWARE QUALITY](https://img.shields.io/badge/QA%20SOFTWARE%20QUALITY-DIAGNOSIS-1f6feb?style=for-the-badge)](https://github.com/ivaneidepmn/qa-software-quality-diagnosis)
-
----
-
-## 🤖 Automação de Controle de Qualidade – Plataforma de Certificação APRBS
-
-Projeto de **automação de testes E2E com Cypress**, integrado ao pipeline **CI/CD com GitHub Actions**.
-
-Este projeto demonstra:
-
-✔ testes automatizados E2E  
-✔ validação funcional da aplicação  
-✔ identificação de bugs de usabilidade  
-✔ execução automática em pipeline CI/CD  
-
----
-
-### 📂 Repositório
-
-[![CYPRESS](https://img.shields.io/badge/CYPRESS-AUTOMATION-1f6feb?style=for-the-badge)](https://github.com/ivaneidepmn/qa-aprbs-cypress)
 
 ---
 
@@ -132,7 +172,7 @@ Repositório dedicado à organização dos meus estudos em **Software Quality En
 - automação
 - boas práticas de engenharia de qualidade
 
-### 📂 Repositório
+📂 Repositório
 
 [![QA ENGINEERING](https://img.shields.io/badge/QA%20ENGINEERING-ROADMAP-1f6feb?style=for-the-badge)](https://github.com/ivaneidepmn/qa-engineering-roadmap)
 
@@ -143,6 +183,8 @@ Repositório dedicado à organização dos meus estudos em **Software Quality En
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivaneidepmn&theme=tokyo-night&hide_border=true"/>
 </div>
+
+---
 
 # 📬 Contato
 
