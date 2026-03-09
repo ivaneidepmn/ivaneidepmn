@@ -18,6 +18,19 @@
 <img src="https://img.shields.io/badge/BDD-Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
 <img src="https://img.shields.io/badge/API%20Testing-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Database%20Testing-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
+
+</div>
+
+---
+
+# 📊 GitHub Metrics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=ivaneidepmn&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivaneidepmn&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -34,6 +47,8 @@
 [![QA Diagnosis](https://img.shields.io/badge/Software%20Quality-Diagnosis-1f6feb?style=for-the-badge)](https://github.com/ivaneidepmn/qa-software-quality-diagnosis)
 
 [![QA Roadmap](https://img.shields.io/badge/QA%20Engineering-Roadmap-1f6feb?style=for-the-badge)](https://github.com/ivaneidepmn/qa-engineering-roadmap)
+
+[![QA SQL Testing](https://img.shields.io/badge/QA%20SQL%20Testing-Lab-6f42c1?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/ivaneidepmn/qa-sql-testing)
 
 </div>
 
@@ -55,6 +70,7 @@
 ✔ melhoria da experiência do usuário  
 ✔ criação de estratégias de testes  
 ✔ automação de testes  
+✔ investigação de bugs e análise de causa raiz  
 
 </td>
 
@@ -115,12 +131,7 @@ Aqui estão alguns projetos que demonstram minha experiência prática em **Soft
 
 ## 🐞 QA Bug Hunt – DemoQA
 
-Projeto de **testes exploratórios e documentação de bugs**, identificando problemas reais de:
-
-- UI interaction
-- validação de dados
-- operações CRUD
-- comportamento da aplicação
+Projeto de **testes exploratórios e documentação de bugs**.
 
 📂 Repositório
 
@@ -130,14 +141,7 @@ Projeto de **testes exploratórios e documentação de bugs**, identificando pro
 
 ## 🤖 Automação de Testes – Plataforma APRBS
 
-Projeto de **automação de testes E2E com Cypress**, integrado ao pipeline **CI/CD com GitHub Actions**.
-
-Este projeto demonstra:
-
-✔ testes automatizados E2E  
-✔ validação funcional da aplicação  
-✔ identificação de bugs de usabilidade  
-✔ execução automática em pipeline CI/CD  
+Projeto de **automação de testes E2E com Cypress** integrado ao **GitHub Actions**.
 
 📂 Repositório
 
@@ -147,15 +151,7 @@ Este projeto demonstra:
 
 ## 🔎 QA Software Quality Diagnosis
 
-Ferramenta de diagnóstico para avaliar **maturidade de testes e riscos de qualidade em sistemas**.
-
-Identifica:
-
-- problemas de qualidade
-- falhas funcionais
-- gargalos de UX
-- necessidade de automação de testes
-- riscos em produção
+Ferramenta de análise de **maturidade de qualidade em sistemas**.
 
 📂 Repositório
 
@@ -165,12 +161,7 @@ Identifica:
 
 ## 📘 QA Engineering Roadmap
 
-Repositório dedicado à organização dos meus estudos em **Software Quality Engineering**, abordando:
-
-- fundamentos de QA
-- estratégias de testes
-- automação
-- boas práticas de engenharia de qualidade
+Organização dos meus estudos em **Quality Engineering**.
 
 📂 Repositório
 
@@ -178,10 +169,30 @@ Repositório dedicado à organização dos meus estudos em **Software Quality En
 
 ---
 
+## 🗄️ QA SQL Testing Lab
+
+Projeto focado em **validação de dados e investigação de bugs utilizando SQL**.
+
+Inclui:
+
+✔ SQL validations  
+✔ bug investigation  
+✔ test cases  
+✔ root cause analysis  
+✔ QA case study  
+
+📂 Repositório
+
+[![QA SQL TESTING LAB](https://img.shields.io/badge/QA%20SQL%20TESTING-LAB-6f42c1?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/ivaneidepmn/qa-sql-testing)
+
+---
+
 # 🔥 Gráfico de Contribuição
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ivaneidepmn&theme=tokyo-night&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ivaneidepmn&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
 ---
