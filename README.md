@@ -8,8 +8,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ### 🔎 Foco Profissional
@@ -22,8 +20,6 @@
 
 </div>
 
----
-
 # 📊 GitHub Metrics
 
 <div align="center">
@@ -34,8 +30,6 @@
 
 </div>
 
----
-
 <div align="center">
 
 ### 🚀 Projetos em Destaque
@@ -44,19 +38,15 @@
 
 [![Cypress Automation](https://img.shields.io/badge/Cypress-Test%20Automation-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://github.com/ivaneidepmn/qa-aprbs-cypress)
 
+[![QA SQL Testing](https://img.shields.io/badge/QA%20SQL%20Testing-Lab-6f42c1?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/ivaneidepmn/qa-sql-testing)
+
 [![QA Diagnosis](https://img.shields.io/badge/Software%20Quality-Diagnosis-1f6feb?style=for-the-badge)](https://github.com/ivaneidepmn/qa-software-quality-diagnosis)
 
 [![QA Roadmap](https://img.shields.io/badge/QA%20Engineering-Roadmap-1f6feb?style=for-the-badge)](https://github.com/ivaneidepmn/qa-engineering-roadmap)
 
-[![QA SQL Testing](https://img.shields.io/badge/QA%20SQL%20Testing-Lab-6f42c1?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/ivaneidepmn/qa-sql-testing)
-
-[![QA SQL Testing](https://img.shields.io/badge/QA%20SQL%20Testing-Lab-6f42c1?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/ivaneidepmn/qa-sql-testing)
-
 [![Dev QA Sync Playbook](https://img.shields.io/badge/DEV%20QA-SYNC%20PLAYBOOK-0ea5e9?style=for-the-badge)](https://github.com/ivaneidepmn/dev-qa-sync-playbook)
 
 </div>
-
----
 
 <table>
 <tr>
@@ -85,8 +75,6 @@
 </tr>
 </table>
 
----
-
 # 🧠 Tecnologias e Ferramentas
 
 ### 🧪 Test Automation
@@ -94,28 +82,20 @@
 <p>
 
 <img src="https://img.shields.io/badge/CYPRESS-Test%20Automation-17202C?style=for-the-badge&logo=cypress&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/BDD-CUCUMBER-23D96C?style=for-the-badge&logo=cucumber&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/API%20TESTING-POSTMAN-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
 </p>
-
----
 
 ### ⚙️ DevOps
 
 <p>
 
 <img src="https://img.shields.io/badge/CI%2FCD-GITHUB%20ACTIONS-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/GIT-VERSION%20CONTROL-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/GITHUB-CODE%20HOSTING-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
-
----
 
 ### 💻 Programming
 
@@ -125,30 +105,21 @@
 
 </p>
 
----
-
 # 🧩 Quality Engineering Skills
 
 <p align="center">
 
 <img src="https://img.shields.io/badge/Test%20Strategy-QA%20Planning-0ea5e9?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Test%20Cases-Design-22c55e?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Bug%20Investigation-Root%20Cause-ef4444?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Quality%20Process-Dev%20QA%20Workflow-6366f1?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Test%20Documentation-QA%20Process-f59e0b?style=for-the-badge"/>
 
 </p>
 
-
 # 🚀 Projetos de QA
 
 Aqui estão alguns projetos que demonstram minha experiência prática em **Software Quality Assurance, Test Automation e Engenharia de Qualidade**.
-
----
 
 ## 🐞 QA Bug Hunt – DemoQA
 
@@ -158,8 +129,6 @@ Projeto de **testes exploratórios e documentação de bugs**.
 
 [![QA BUG HUNT](https://img.shields.io/badge/QA%20BUG%20HUNT-DemoQA-blue?style=for-the-badge)](https://github.com/ivaneidepmn/qa-bug-hunt-demoqa)
 
----
-
 ## 🤖 Automação de Testes – Plataforma APRBS
 
 Projeto de **automação de testes E2E com Cypress** integrado ao **GitHub Actions**.
@@ -167,28 +136,6 @@ Projeto de **automação de testes E2E com Cypress** integrado ao **GitHub Actio
 📂 Repositório
 
 [![CYPRESS AUTOMATION](https://img.shields.io/badge/CYPRESS-AUTOMATION-1f6feb?style=for-the-badge)](https://github.com/ivaneidepmn/qa-aprbs-cypress)
-
----
-
-## 🔎 QA Software Quality Diagnosis
-
-Ferramenta de análise de **maturidade de qualidade em sistemas**.
-
-📂 Repositório
-
-[![QA SOFTWARE QUALITY](https://img.shields.io/badge/QA%20SOFTWARE%20QUALITY-DIAGNOSIS-1f6feb?style=for-the-badge)](https://github.com/ivaneidepmn/qa-software-quality-diagnosis)
-
----
-
-## 📘 QA Engineering Roadmap
-
-Organização dos meus estudos em **Quality Engineering**.
-
-📂 Repositório
-
-[![QA ENGINEERING](https://img.shields.io/badge/QA%20ENGINEERING-ROADMAP-1f6feb?style=for-the-badge)](https://github.com/ivaneidepmn/qa-engineering-roadmap)
-
----
 
 ## 🗄️ QA SQL Testing Lab
 
@@ -206,7 +153,21 @@ Inclui:
 
 [![QA SQL TESTING LAB](https://img.shields.io/badge/QA%20SQL%20TESTING-LAB-6f42c1?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/ivaneidepmn/qa-sql-testing)
 
----
+## 🔎 QA Software Quality Diagnosis
+
+Ferramenta de análise de **maturidade de qualidade em sistemas**.
+
+📂 Repositório
+
+[![QA SOFTWARE QUALITY](https://img.shields.io/badge/QA%20SOFTWARE%20QUALITY-DIAGNOSIS-1f6feb?style=for-the-badge)](https://github.com/ivaneidepmn/qa-software-quality-diagnosis)
+
+## 📘 QA Engineering Roadmap
+
+Organização dos meus estudos em **Quality Engineering**.
+
+📂 Repositório
+
+[![QA ENGINEERING](https://img.shields.io/badge/QA%20ENGINEERING-ROADMAP-1f6feb?style=for-the-badge)](https://github.com/ivaneidepmn/qa-engineering-roadmap)
 
 ## 🔄 Dev-QA Sync Playbook
 
@@ -232,15 +193,13 @@ Inclui:
 
 </div>
 
----
-
 # 📬 Contato
 
 <div align="center">
 
 <a href="https://linkedin.com/in/ivaneidepmn">
 
-<img src="https://img.shields.io/badge/LinkedIn-Ivaneide%20Monteiro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Ivaneide%20Nascimento-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 
 </a>
 
