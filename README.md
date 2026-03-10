@@ -50,6 +50,10 @@
 
 [![QA SQL Testing](https://img.shields.io/badge/QA%20SQL%20Testing-Lab-6f42c1?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/ivaneidepmn/qa-sql-testing)
 
+[![QA SQL Testing](https://img.shields.io/badge/QA%20SQL%20Testing-Lab-6f42c1?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/ivaneidepmn/qa-sql-testing)
+
+[![Dev QA Sync Playbook](https://img.shields.io/badge/DEV%20QA-SYNC%20PLAYBOOK-0ea5e9?style=for-the-badge)](https://github.com/ivaneidepmn/dev-qa-sync-playbook)
+
 </div>
 
 ---
@@ -187,6 +191,21 @@ Inclui:
 
 ---
 
+## 🔄 Dev-QA Sync Playbook
+
+Projeto que demonstra um **workflow completo de colaboração entre desenvolvimento e QA**, utilizando GitHub como ambiente de gestão de qualidade.
+
+Inclui:
+
+✔ QA workflow documentation  
+✔ bug reporting structure  
+✔ test case organization  
+✔ Dev–QA collaboration model  
+✔ quality engineering documentation  
+
+📂 Repositório
+
+[![DEV QA SYNC PLAYBOOK](https://img.shields.io/badge/DEV%20QA-SYNC%20PLAYBOOK-0ea5e9?style=for-the-badge)](https://github.com/ivaneidepmn/dev-qa-sync-playbook)
 # 🔥 Gráfico de Contribuição
 
 <div align="center">
