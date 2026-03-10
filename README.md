@@ -127,6 +127,23 @@
 
 ---
 
+# 🧩 Quality Engineering Skills
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Test%20Strategy-QA%20Planning-0ea5e9?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Test%20Cases-Design-22c55e?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Bug%20Investigation-Root%20Cause-ef4444?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Quality%20Process-Dev%20QA%20Workflow-6366f1?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Test%20Documentation-QA%20Process-f59e0b?style=for-the-badge"/>
+
+</p>
+---
+
 # 🚀 Projetos de QA
 
 Aqui estão alguns projetos que demonstram minha experiência prática em **Software Quality Assurance, Test Automation e Engenharia de Qualidade**.
@@ -206,6 +223,7 @@ Inclui:
 📂 Repositório
 
 [![DEV QA SYNC PLAYBOOK](https://img.shields.io/badge/DEV%20QA-SYNC%20PLAYBOOK-0ea5e9?style=for-the-badge)](https://github.com/ivaneidepmn/dev-qa-sync-playbook)
+
 # 🔥 Gráfico de Contribuição
 
 <div align="center">
