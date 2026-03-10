@@ -142,7 +142,7 @@
 <img src="https://img.shields.io/badge/Test%20Documentation-QA%20Process-f59e0b?style=for-the-badge"/>
 
 </p>
----
+
 
 # 🚀 Projetos de QA
 
