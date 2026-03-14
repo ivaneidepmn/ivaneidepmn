@@ -17,6 +17,7 @@
 <img src="https://img.shields.io/badge/API%20Testing-Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 <img src="https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
 <img src="https://img.shields.io/badge/Database%20Testing-SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Security%20Validation-CodeQL-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
 
 </div>
 
@@ -46,6 +47,8 @@
 
 [![Dev QA Sync Playbook](https://img.shields.io/badge/DEV%20QA-SYNC%20PLAYBOOK-0ea5e9?style=for-the-badge)](https://github.com/ivaneidepmn/dev-qa-sync-playbook)
 
+[![QA Code Security](https://img.shields.io/badge/QA%20Code%20Security-DevSecOps%20Lab-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivaneidepmn/qa-code-security-lab)
+
 </div>
 
 <table>
@@ -65,6 +68,7 @@
 ✔ criação de estratégias de testes  
 ✔ automação de testes  
 ✔ investigação de bugs e análise de causa raiz  
+✔ validação preventiva de riscos em pipelines CI/CD  
 
 </td>
 
@@ -97,6 +101,16 @@
 
 </p>
 
+### 🔐 Security & Quality Validation
+
+<p>
+
+<img src="https://img.shields.io/badge/CODEQL-Static%20Analysis-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/SAST-Security%20Testing-9333ea?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DevSecOps-Engineering-0f766e?style=for-the-badge"/>
+
+</p>
+
 ### 💻 Programming
 
 <p>
@@ -114,6 +128,7 @@
 <img src="https://img.shields.io/badge/Bug%20Investigation-Root%20Cause-ef4444?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Quality%20Process-Dev%20QA%20Workflow-6366f1?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Test%20Documentation-QA%20Process-f59e0b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Security%20Validation-Risk%20Prevention-7c3aed?style=for-the-badge"/>
 
 </p>
 
@@ -185,6 +200,24 @@ Inclui:
 
 [![DEV QA SYNC PLAYBOOK](https://img.shields.io/badge/DEV%20QA-SYNC%20PLAYBOOK-0ea5e9?style=for-the-badge)](https://github.com/ivaneidepmn/dev-qa-sync-playbook)
 
+## 🔐 QA Code Security Lab – DevSecOps Engineering
+
+Projeto focado em **validação automatizada de segurança em pipelines CI/CD utilizando GitHub Actions e CodeQL**.
+
+Simula cenários reais de vulnerabilidades e demonstra como QA pode atuar de forma estratégica na **prevenção de riscos, governança de qualidade e confiabilidade do software**.
+
+Inclui:
+
+✔ Static Application Security Testing (SAST)  
+✔ Pipeline CI com análise automatizada  
+✔ Evidências reais de execução  
+✔ Investigação de vulnerabilidades  
+✔ Mentalidade Shift-Left e DevSecOps  
+
+📂 Repositório
+
+[![QA CODE SECURITY LAB](https://img.shields.io/badge/QA%20CODE%20SECURITY-DEVSECOPS%20LAB-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivaneidepmn/qa-code-security-lab)
+
 # 🔥 Gráfico de Contribuição
 
 <div align="center">
@@ -198,11 +231,9 @@ Inclui:
 <div align="center">
 
 <a href="https://linkedin.com/in/ivaneidepmn">
-
 <img src="https://img.shields.io/badge/LinkedIn-Ivaneide%20Nascimento-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 </div>
 
-⭐ Este perfil apresenta meus **projetos e estudos em Software Quality Assurance e Test Automation**.
+⭐ Este perfil apresenta meus **projetos e estudos em Software Quality Assurance, Test Automation, CI/CD e Engenharia de Qualidade**.
