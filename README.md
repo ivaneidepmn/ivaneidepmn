@@ -260,7 +260,7 @@ Inclui:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ivaneidepmn&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ivaneidepmn&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=79C0FF&area=true&area_color=1F6FEB"/>
 
 </div>
 
