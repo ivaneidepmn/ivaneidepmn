@@ -33,23 +33,65 @@
 
 <div align="center">
 
-### 🚀 Projetos em Destaque
+<div align="center">
 
-[![QA Bug Hunt](https://img.shields.io/badge/QA%20Bug%20Hunt-DemoQA-blue?style=for-the-badge)](https://github.com/ivaneidepmn/qa-bug-hunt-demoqa)
+## 🚀 Projetos em Destaque
 
-[![Cypress Automation](https://img.shields.io/badge/Cypress-Test%20Automation-17202C?style=for-the-badge&logo=cypress&logoColor=white)](https://github.com/ivaneidepmn/qa-aprbs-cypress)
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ivaneidepmn/qa-bug-hunt-demoqa">
+        <img src="https://img.shields.io/badge/QA%20Bug%20Hunt-DemoQA-1f6feb?style=for-the-badge" />
+      </a>
+      <br/>
+      <sub>Testes exploratórios e documentação de bugs</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ivaneidepmn/qa-aprbs-cypress">
+        <img src="https://img.shields.io/badge/Cypress-Test%20Automation-17202C?style=for-the-badge&logo=cypress&logoColor=white" />
+      </a>
+      <br/>
+      <sub>Automação E2E com Cypress e CI</sub>
+    </td>
+  </tr>
 
-[![QA SQL Testing](https://img.shields.io/badge/QA%20SQL%20Testing-Lab-6f42c1?style=for-the-badge&logo=sqlite&logoColor=white)](https://github.com/ivaneidepmn/qa-sql-testing)
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ivaneidepmn/qa-sql-testing">
+        <img src="https://img.shields.io/badge/QA%20SQL%20Testing-Lab-6f42c1?style=for-the-badge&logo=sqlite&logoColor=white" />
+      </a>
+      <br/>
+      <sub>Validação de dados e investigação com SQL</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ivaneidepmn/qa-software-quality-diagnosis">
+        <img src="https://img.shields.io/badge/Quality-Diagnosis-0ea5e9?style=for-the-badge" />
+      </a>
+      <br/>
+      <sub>Análise de maturidade de qualidade</sub>
+    </td>
+  </tr>
 
-[![QA Diagnosis](https://img.shields.io/badge/Software%20Quality-Diagnosis-1f6feb?style=for-the-badge)](https://github.com/ivaneidepmn/qa-software-quality-diagnosis)
-
-[![QA Roadmap](https://img.shields.io/badge/QA%20Engineering-Roadmap-1f6feb?style=for-the-badge)](https://github.com/ivaneidepmn/qa-engineering-roadmap)
-
-[![Dev QA Sync Playbook](https://img.shields.io/badge/DEV%20QA-SYNC%20PLAYBOOK-0ea5e9?style=for-the-badge)](https://github.com/ivaneidepmn/dev-qa-sync-playbook)
-
-[![QA Code Security](https://img.shields.io/badge/QA%20Code%20Security-DevSecOps%20Lab-7c3aed?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ivaneidepmn/qa-code-security-lab)
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ivaneidepmn/dev-qa-sync-playbook">
+        <img src="https://img.shields.io/badge/Dev--QA-Sync%20Playbook-f59e0b?style=for-the-badge" />
+      </a>
+      <br/>
+      <sub>Fluxo colaborativo entre desenvolvimento e QA</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/ivaneidepmn/qa-code-security-lab">
+        <img src="https://img.shields.io/badge/QA%20Code%20Security-DevSecOps%20Lab-7c3aed?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br/>
+      <sub>Segurança automatizada com GitHub Actions e CodeQL</sub>
+    </td>
+  </tr>
+</table>
 
 </div>
+
 
 <table>
 <tr>
